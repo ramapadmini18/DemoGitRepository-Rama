@@ -1,4 +1,0 @@
-this is a new file to understand how staging works
-we will use stash to save the file instead of storing or moving to staging area
-i came back
-a
